@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "fondo.png",
+	"frame": {"x":1,"y":1,"w":802,"h":602},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":802,"h":602},
+	"sourceSize": {"w":802,"h":602}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sky_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":804,"h":604},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b1a868e13ec8b8c073babfe6009ae48f:c2ae4b45f6ac330bd3c81ee96f1fd0f7:df2141940534e63796501d55f028a428$"
+}
+}

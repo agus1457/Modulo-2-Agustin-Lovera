@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "sky2.png",
+	"frame": {"x":1,"y":1,"w":400,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":300},
+	"sourceSize": {"w":400,"h":300}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sky_atlas2.png",
+	"format": "RGBA8888",
+	"size": {"w":402,"h":302},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:56de3216736f0408d633ddec2dd1ae12:5be1b1c77f0860c7b234e27efc3707aa:eeca1e53c4fffc9e1a3e3c11aa1693c3$"
+}
+}
